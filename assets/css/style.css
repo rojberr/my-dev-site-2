@@ -655,38 +655,38 @@ section {
   text-align: center;
   min-height: 320px;
 }
-.referrals .testimonial-item .testimonial-img {
+.referrals .referrals-item .referrals-img {
   width: 90px;
   border-radius: 50%;
   margin: 0 auto;
 }
-.referrals .testimonial-item h3 {
+.referrals .referrals-item h3 {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #111;
 }
-.referrals .testimonial-item h4 {
+.referrals .referrals-item h4 {
   font-size: 14px;
   color: #999;
   margin: 0;
 }
-.referrals .testimonial-item .quote-icon-left, .referrals .testimonial-item .quote-icon-right {
+.referrals .referrals-item .quote-icon-left, .referrals .referrals-item .quote-icon-right {
   color: #c3e8fa;
   font-size: 26px;
 }
-.referrals .testimonial-item .quote-icon-left {
+.referrals .referrals-item .quote-icon-left {
   display: inline-block;
   left: -5px;
   position: relative;
 }
-.referrals .testimonial-item .quote-icon-right {
+.referrals .referrals-item .quote-icon-right {
   display: inline-block;
   right: -5px;
   position: relative;
   top: 10px;
 }
-.referrals .testimonial-item p {
+.referrals .referrals-item p {
   font-style: italic;
   margin: 0 15px 15px 15px;
   padding: 20px;
@@ -696,7 +696,7 @@ section {
   border-radius: 6px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
-.referrals .testimonial-item p::after {
+.referrals .referrals-item p::after {
   content: "";
   width: 0;
   height: 0;

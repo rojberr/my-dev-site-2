@@ -213,9 +213,9 @@
   });
 
   /**
-   * Testimonials slider
+   * Referrals slider
    */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.referrals-slider', {
     speed: 600,
     loop: true,
     autoplay: {
