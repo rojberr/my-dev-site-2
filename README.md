@@ -29,7 +29,7 @@ Project was created using palette of colors from [flatuicolors.com](https://flat
 ├───assets                      # Assets
 │   ├───css                     # style.css
 │   ├───img                     # illustrations from (undraw.co)
-│   │   ├───portfolio
+│   │   ├───projects
 │   │   └───referrals
 │   ├───js                      # Javascript code
 │   └───vendor                  # Here things get interesting
