@@ -2,7 +2,7 @@
 
 This is my second portfolio site. I wanted to present my projects in a story-like way. You can find this deplozed site at :point_right: <https://www.drzymala.dev/> :feelsgood:
 
-![Thumbnail of my-dev-site-2](...)
+![WebpageThumbnail](readme-thumbnail.jpg)
 
 I used iPortfolio theme designed by [BootstrapMade](https://bootstrapmade.com/) and modified it a bit. 👷
 [iPortfolio-theme](https://bootstrapmade.com/demo/iPortfolio/)
