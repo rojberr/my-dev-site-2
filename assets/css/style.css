@@ -213,6 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .hero-container {
   position: relative;
+  align-items: center;
   z-index: 2;
   min-width: 300px;
 }
@@ -1057,3 +1058,26 @@ section {
 .hide{
   display:none
   }
+
+.btn {
+  display: block;
+  padding: 0.8rem 2.6rem;
+  font-weight: 500;
+  border-width: 2px;
+  margin-left: 75px;
+  margin-right: 75px;
+
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.btn-outline-primary {
+  color: #149ddd;
+  border-color: #149ddd;
+}
+
+.btn-outline-primary:hover {
+  background-color: #149ddd;
+  border-color: #149ddd;
+  color: #fff;
+}
