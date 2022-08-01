@@ -42,25 +42,25 @@
 <body>
 
   <!-- Preloader -->
-<div class="preloader">
-  <div class="lds-ellipsis">
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
+  <div class="preloader">
+    <div class="lds-ellipsis">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
   </div>
-</div>
-<!-- preloader Script -->
-<script src='https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.js'></script>
-<script type="text/javascript">
-  document.onreadystatechange = function () {
-  if (document.readyState === 'complete') {
-    $('.preloader').css('display','none');
-}
-}
-</script>
-<!-- End of preloader Script -->
-<!-- Preloader End --> 
+  <!-- preloader Script -->
+  <script src='https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.js'></script>
+  <script type="text/javascript">
+    document.onreadystatechange = function () {
+      if (document.readyState === 'complete') {
+        $('.preloader').css('display', 'none');
+      }
+    }
+  </script>
+  <!-- End of preloader Script -->
+  <!-- Preloader End -->
 
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
@@ -75,7 +75,8 @@
         <div class="social-links mt-3 text-center">
           <a onclick="window.open(this.href,'_blank');return false;" href="https://twitter.com/rojberr_"
             class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a onclick="window.open(this.href,'_blank');return false;" href="https://github.com/rojberr" class="github"><i class="bx bxl-github"></i></a>
+          <a onclick="window.open(this.href,'_blank');return false;" href="https://github.com/rojberr" class="github"><i
+              class="bx bxl-github"></i></a>
           <a onclick="window.open(this.href,'_blank');return false;" href="https://join.skype.com/invite/IwkiZ3PtQeQ2"
             class="google-plus"><i class="bx bxl-skype"></i></a>
           <a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/jakub-drzymala/"
@@ -261,7 +262,7 @@
           </ul>
 
           I'm open to learn new skills, in case they would be necessary to do awesome things! The percentages below
-            are for obvious reasons a dancing baloney, because expressing a knowledge in % is not the best idea, but
+          are for obvious reasons a dancing baloney, because expressing a knowledge in % is not the best idea, but
           I'll leave them be ;)
           </p>
         </div>
@@ -439,7 +440,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5-3dchessreplayer.gif" class="img-fluid" alt="">
+              <video autoplay loop muted playsinline class="img-fluid">
+                <source src="assets/img/portfolio/portfolio-5-3dchessreplayer.webm" type="video/webm">
+              </video>
               <div class="portfolio-links">
                 <a onclick="window.open(this.href,'_blank');return false;"
                   href="https://github.com/rojberr/3d-chess-replayer"
