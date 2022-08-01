@@ -53,11 +53,9 @@
 <!-- preloader Script -->
 <script src='http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.js'></script>
 <script type="text/javascript">
-  document.onreadystatechange = function () {
-  if (document.readyState === 'complete') {
-    $('.preloader').css('display','none');
-}
-}
+setTimeout(function(){ 
+    $('.preloader').css('display', 'none');
+}, 1000);
 </script>
 <!-- End of preloader Script -->
 <!-- Preloader End --> 
