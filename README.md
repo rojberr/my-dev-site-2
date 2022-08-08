@@ -1,6 +1,6 @@
 # MY-DEV-SITE-2
 
-This is my second portfolio site. I wanted to present my projects in a story-like way. You can find this deplozed site at :point_right: <https://www.drzymala.dev/> :feelsgood:
+This is my second portfolio site. I wanted to present my projects in a story-like way. This website is already deployed and can be found at :point_right: <https://www.drzymala.dev/> :feelsgood:
 
 ![WebpageThumbnail](readme-thumbnail.jpg)
 
