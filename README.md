@@ -77,5 +77,5 @@ If you love this website template and want to support me, you can do so through 
 
 ## Links
 
-- [The page](https://www.drzymala.com/),
-- [Theme site](https://bootstrapmade.com/demo/iPortfolio/),
+- [The page](https://www.drzymala.dev/),
+- [Theme site](https://bootstrapmade.com/demo/iPortfolio/).
