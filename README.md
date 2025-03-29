@@ -1,6 +1,6 @@
 # MY-DEV-SITE-2
 
-This is my second portfolio site. I wanted to present my projects in a story-like way. This website is already deployed and can be found at :point_right: <https://www.drzymala.dev/> :feelsgood:
+This is my second portfolio site. I wanted to present my projects in a story-like way. This website was replaces by newer website (See: ) :point_right: <https://www.drzymala.site/> :feelsgood:
 
 ![WebpageThumbnail](readme-thumbnail.jpg)
 
@@ -77,5 +77,5 @@ If you love this website template and want to support me, you can do so through 
 
 ## Links
 
-- [The page](https://www.drzymala.dev/),
+- [The page](https://www.drzymala.site/),
 - [Theme site](https://bootstrapmade.com/demo/iPortfolio/).
