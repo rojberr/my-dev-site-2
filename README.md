@@ -1,6 +1,6 @@
 # MY-DEV-SITE-2
 
-This is my second portfolio site. I wanted to present my projects in a story-like way. This website was replaces by newer website (See: ) :point_right: <https://www.drzymala.site/> :feelsgood:
+This is my second portfolio site. I wanted to present my projects in a story-like way. This website was replaced by newer website (See: ) :point_right: <https://www.drzymala.site/> built from [my-dev-site-3](https://github.com/rojberr/my-dev-site-3) :feelsgood:
 
 ![WebpageThumbnail](readme-thumbnail.jpg)
 
